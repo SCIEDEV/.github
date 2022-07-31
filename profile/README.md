@@ -1,3 +1,3 @@
 # SCIE.DEV
 
-*Nothing here...*
+Official Repository for all things SCIE Developers
